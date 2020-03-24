@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=arcturus_api
+POSTGRES_USER=OAFaHuIabTmSKqWigDuRnKiDVmRqTyPW
+POSTGRES_PASSWORD=gwRepzs1c1SThViC0OWGa8BHC2NMvkbY3BFGWgNujnvHXum3pP57NnPJimrhzlOt
